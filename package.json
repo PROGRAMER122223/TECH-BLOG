@@ -17,6 +17,9 @@
   "bugs": {
     "url": "https://github.com/PROGRAMER122223/TECH-BLOG/issues"
   },
+  "engines": {
+    "node": " 14.17.3"
+  },
   "homepage": "https://github.com/PROGRAMER122223/TECH-BLOG#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
