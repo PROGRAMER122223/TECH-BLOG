@@ -34,5 +34,8 @@
     "node-gyp": "^9.0.0",
     "routes": "^2.1.0",
     "sequelize": "^6.19.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
   }
 }
